@@ -1,6 +1,6 @@
 # Data Scientist Nanodegree
 # Introduction to data science
-## Project: Write BlogPost For Amsterdam airbnb listings
+## Project: Amsterdam airbnb listings Analysis 2019 
 
 ### Installations
 
