@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html>
+<head>
+  <title>Index Page</title>
+  <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+</head>
+
+<body>
+  <h1>The index.html page</h1>  
+  <p>{{ids}}</p>
+  <p>{{figuresJSON}}</p>
+  <div id="{{ids[0]}}"></div>
+  <script type="text/javascript">
+    //plots the figures with ids
+	var figures = {{figuresJSON | safe}}
+    var ids = {{ ids | safe}}
+    for(var i in figures){
+      Plotly.plot(ids[i], 
+                 figures[i].data,
+                 figures[i].layout || {})
+    }
+  </script>
+</body>
+</html>
