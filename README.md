@@ -14,7 +14,7 @@ for [term 2](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Te
 
 ### Term 1
 
-Link for term 1 (repo)[https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term1/]
+Link for term 1 [repo](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term1/)
 
 ### Term 2
 
@@ -30,7 +30,7 @@ Link for term 1 (repo)[https://github.com/nesreensada/Data-Scientist-Udacity-Nan
 
 #### Projects
 
-1. Write a Blog Post
+1. [Write a Blog Post](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Write_BlogPost): Analysis for Amsterdam Airbnb listings following the CRISP-DM process. **tools**: python, sklearn, numpy, pandas, matplotlib.
 
 2. Disaster Response Pipelines
 
