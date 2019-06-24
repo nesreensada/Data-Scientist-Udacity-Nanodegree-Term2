@@ -7,15 +7,19 @@ for [term 2](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Te
 
 ## Table of Contents
 0. Extra Curricular:
-0.1: [Convolutional Neural Network]()
-0.2: [Spark]()
+
+  0.1: [Convolutional Neural Network]()
+
+  0.2: [Spark]()
 
 ### Term 1
+
 Link for term 1 (repo)[https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term1/]
 
 ### Term 2
 
 #### Lessons 
+
 1. [Introduction to Data Science](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/lessons/CRISP_DM): Introduce the data science process and how to communicate results to stakeholders.
 
 2. [Software Engineering](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/lessons/WebDevelopment): Best practices in software engineering plus Web development. **tools**: python, flask, heroku, unittests.
