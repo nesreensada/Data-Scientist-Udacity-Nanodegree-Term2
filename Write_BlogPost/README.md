@@ -52,7 +52,7 @@ The peak in prices occur in the period between May and June and the cheapest per
 
     - Room Type
 
-for more information refer to the medium blogpost for this project.
+for more information refer to the medium blogpost for this project: https://medium.com/@nesreensada/this-is-why-an-amsterdam-airbnb-listing-is-expansive-593029aec0df.
 
 ### File Descriptions
 
