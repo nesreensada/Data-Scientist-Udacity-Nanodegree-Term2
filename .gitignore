@@ -1,0 +1,4 @@
+#ignore directory
+/DSND_Term2-master/
+Write_BlogPost/data/*
+*/.ipynb_checkpoints
