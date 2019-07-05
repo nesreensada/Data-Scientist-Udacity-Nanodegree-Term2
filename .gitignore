@@ -2,3 +2,8 @@
 /DSND_Term2-master/
 Write_BlogPost/data/*
 */.ipynb_checkpoints
+*/__pycache__/*
+*/.DS_Store/*
+*/*.pyc
+*/.cpython-36.pyc
+
