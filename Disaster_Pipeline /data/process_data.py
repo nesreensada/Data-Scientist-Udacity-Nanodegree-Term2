@@ -13,7 +13,7 @@ def load_data(messages_filepath, categories_filepath):
     Output: Pandas dataframe of the merged csv files
     """
     messages = pd.read_csv(messages_filepath)
-    categories = pd.read_csv('categories.csv')
+    categories = pd.read_csv(categories_filepath)
 
     df = messages.merge(categories, how='inner', on= 'id')
     return df
@@ -65,7 +65,7 @@ def save_data(df, database_filename):
         database_filename: database to store the cleaned dataframe 
     
     """
-    engine = create_engine(database_filename)
+    engine = create_engine('sqlite:///'+ database_filename)
     df.to_sql('messages', engine, index=False)  
 
 
