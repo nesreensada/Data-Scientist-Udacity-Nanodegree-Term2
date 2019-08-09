@@ -40,7 +40,7 @@ The datasets used contain real messages that were sent during disaster events. I
 3. Go to http://0.0.0.0:3001/
 
 
-![ScreenShot](disaster_response_project2.png)
+![disaster_response_project2](disaster_response_project2.png)
 
 ### Example 
 
