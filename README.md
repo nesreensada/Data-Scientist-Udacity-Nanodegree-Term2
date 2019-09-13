@@ -32,9 +32,9 @@ Link for term 1 [repo](https://github.com/nesreensada/Data-Scientist-Udacity-Nan
 
 1. [Write a Blog Post](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Write_BlogPost): Analysis for Amsterdam Airbnb listings following the CRISP-DM process. **tools**: python, sklearn, numpy, pandas, matplotlib.
 
-2. [Disaster Response Pipelines](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Disaster_Pipeline%20):
+2. [Disaster Response Pipelines](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Disaster_Pipeline%20): analyze disaster data from Figure Eight to build an NLP model for an API that classifies disaster messages. The first part of this project consisted of creating an ETL pipeline with data stored in SQL database. Then used the NLP model to categorize these events to reach out for a relevant relief agency. Finally, Flask was used to create the API. **tools*: python, NLP, sklearn, numpy, matplotlib, FLASK, ETL.
 
-3. [Recommendations with IBM](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Recommendations_with_IBM):
+3. [Recommendations with IBM](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Recommendations_with_IBM): Built a recommendation engine for IBM Watson platform based on user behavior and social network data, to surface content most likely to be relevant to a user.  This project consisted of building various types of recommendation engines such as rank-based, user-user collaborative filtering, and matrix factorization.
 
 4. Capstone Project
 
