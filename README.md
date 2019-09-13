@@ -24,17 +24,17 @@ Link for term 1 [repo](https://github.com/nesreensada/Data-Scientist-Udacity-Nan
 
 2. [Software Engineering](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/lessons/WebDevelopment): Best practices in software engineering plus Web development. **tools**: python, flask, heroku, unittests.
 
-3. Data Engineering: building ETL, NLP, and machine learning pipelines.
+3. [Data Engineering](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/lessons/Data%20Engineering): building ETL, NLP, and machine learning pipelines.
 
-4.Experimental Design & Recommendations:design experiments and analyze A/B test results. Explore approaches for building recommendation systems. 
+4.[Experimental Design & Recommendations](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/lessons/Experimental_Design_%26_Recommendations):design experiments and analyze A/B test results. Explore approaches for building recommendation systems. 
 
 #### Projects
 
 1. [Write a Blog Post](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Write_BlogPost): Analysis for Amsterdam Airbnb listings following the CRISP-DM process. **tools**: python, sklearn, numpy, pandas, matplotlib.
 
-2. Disaster Response Pipelines
+2. [Disaster Response Pipelines](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Disaster_Pipeline%20):
 
-3. Recommendations with IBM
+3. [Recommendations with IBM](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Recommendations_with_IBM):
 
 4. Capstone Project
 
