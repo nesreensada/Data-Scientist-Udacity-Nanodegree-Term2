@@ -36,7 +36,8 @@ Link for term 1 [repo](https://github.com/nesreensada/Data-Scientist-Udacity-Nan
 
 3. [Recommendations with IBM](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Recommendations_with_IBM): Built a recommendation engine for IBM Watson platform based on user behavior and social network data, to surface content most likely to be relevant to a user.  This project consisted of building various types of recommendation engines such as rank-based, user-user collaborative filtering, and matrix factorization.
 
-4. Capstone Project
+4. [Capstone Project](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2/tree/master/Starbucks_Project): Used uplift modeling techniques to identify which groups of customers are most responsive to each type of offer. The data mimic Starbucks customers' behavior on the rewards mobile app. This required data preprocessing, RFM clustering(Kmeans), and xgboost to build the models.
+**tools: python, sklearn, data visualization,numpy, pandas,RFM clustering, uplift modeling, xgboost**
 
 ## Licence 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
