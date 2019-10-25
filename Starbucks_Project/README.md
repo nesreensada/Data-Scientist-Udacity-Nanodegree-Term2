@@ -20,7 +20,7 @@ install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python di
 
 ### Project Motivation
 
-As per Udacity Data Scientist Nanodegree project Term 2. This porject is the Capstone projevt for this term nanodegree. I was intriguted to analyze the customers behavior and promotion strategies. 
+As per Udacity Data Scientist Nanodegree project Term 2. This porject is the Capstone project for this term nanodegree. I was intriguted to analyze the customers behavior and promotion strategies. 
 
 for more information refer to the medium blogpost for this project:https://medium.com/@nesreensada/how-to-build-a-profitable-promotion-strategy-easily-with-uplift-modeling-26b2addc3e46?sk=042df27552127609e6b28f5e647ca99c .
 
@@ -76,7 +76,7 @@ Uplift Modeling
 - The Discount and informational offers seem to be responsive to these promotion strategies while only the BOGO offers for shorter duration and amount to spent are less responsive or modeled using this.
 
 ### File Descriptions
-
+```
 ├── analyzed_transactions_offers.csv
 ├── analyzed_transactions_offers_RFM.csv
 ├── analyzed_tx_offers_RFM_profile.csv
@@ -87,7 +87,7 @@ Uplift Modeling
 ├── README.md
 ├── requirements.txt
 └── Starbucks_Capstone_Notebook.ipynb
-
+```
 - Data: folder containing the data required for the analysis(this folder and associated folders needed to be created as per Data instructions).
 - Starbucks_Capstone_Notebook.ipynb: Main notebook for the analysis
 
