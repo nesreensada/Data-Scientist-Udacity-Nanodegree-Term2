@@ -1,9 +1,11 @@
 # Data-Scientist-Udacity-Nanodegree-
-
+ 
 ## Introduction
 * Udacity Data Scientist Nanodegree Term 2 projects and material
 for [term 2](https://github.com/nesreensada/Data-Scientist-Udacity-Nanodegree-Term2)
 * This repo contain the exercises, projects and the extra curricular material.
+
+* this is the link for the certificate: https://confirm.udacity.com/SPCUMMK6
 
 ## Table of Contents
 0. Extra Curricular:
